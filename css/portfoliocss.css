@@ -412,6 +412,10 @@
 		width: 100%;
 		padding-left: 5px;
 	}
+	/* Footer Styles*/
+	footer{
+		padding-top: 10%;
+	}
 }
 /***************************************************/
 /*                Desktop View                     */
